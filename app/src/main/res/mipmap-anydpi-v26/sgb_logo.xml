@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/sgb_logo_background"/>
+    <foreground android:drawable="@mipmap/sgb_logo_foreground"/>
+</adaptive-icon>

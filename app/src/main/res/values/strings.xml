@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BestBuy SGB</string>
+    <string name="channel_name">SGB Channel Name</string>
+    <string name="channel_description">SGB Channel Description</string>
+</resources>
