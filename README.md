@@ -10,7 +10,7 @@ This project is a simple application that checks the best price of Sovereign Gol
 
 ## Usage
 
-1. Download the latest version of the "BestBuy - SGB" APK from the [Releases](https://github.com/your-username/sgb-price-checker/releases) page.
+1. Download the latest version of the "BestBuy - SGB" APK from the [Releases](https://github.com/rohit-sonii/sgb-price-checker/releases) page.
 
 2. Install the APK on your Android device. You may need to enable "Unknown sources" in your device settings to install the APK.
 
